@@ -12,7 +12,6 @@ require (
 	github.com/goexl/exception v0.0.4
 	github.com/goexl/log v0.1.0
 	github.com/olekukonko/tablewriter v1.1.0
-	github.com/olekukonko/tablewriter v1.0.8
 	github.com/stretchr/testify v1.11.1
 	github.com/zs5460/art v0.3.0
 )
